@@ -91,9 +91,4 @@ O projeto foi desenvolvido para aplicar conhecimentos de desenvolvimento web com
 - Modelagem do sistema
 - Versionamento com Git e GitHub
 
-## Como Executar o Projeto
 
-Clone o repositório:
-
-```bash
-git clone URL_DO_REPOSITORIO
